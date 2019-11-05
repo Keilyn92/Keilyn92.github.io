@@ -1,11 +1,11 @@
 # Site settings
 author: Merkeresseria Coleman
-title: 
+title: Merkeresseria Coleman
 header-img: img/home-bg.png
 email: kttsmllc@gmail.com
 copyright_name: Merkeresseria Coleman
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Facts
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  Keilyn92
