@@ -1,6 +1,6 @@
 ---
 layout: post
-title:      "'Why I Decided to Become A Software Enginee'"
+title:      "'Why I Decided to Become A Software Engineer'"
 date:       2019-11-05 17:39:09 -0500
 permalink:  why_i_want_to_become_a_software_enginner
 ---
